@@ -182,7 +182,7 @@
                     </div>
                     <div class="col-lg-6 col-md-5">
                         <div class="header__top__right">
-                            @if(Session["User"]!=null)
+                            @if (Session["User"] != null)
                             {
                                 var us = Session["User"] as TAIKHOAN;
                                 <div class="header__top__hover">
@@ -191,17 +191,21 @@
                                         <li>Account Information</li>
                                         <li>Change Password</li>
                                         <li>
-                                            <a href="@Url.Action("DangXuat","TaiKhoan")" style="color:white">Log Out</a>
+
                                         </li>
-                                    </ul> 
+                                    </ul>
                                 </div>
-                                }
-                                else
-                                {
-                                    <div class="header__top__links">
-                                        <a href="/TaiKhoan/DangNhap">Sign in</a>
-                                    </div>
-                                }
+                                <div class="header__top__links">
+                                    <a href="@Url.Action("DangXuat","TaiKhoan")" style="color:white">Log Out</a>
+                                </div>
+                                
+                            }
+                            else
+                            {
+                                <div class="header__top__links">
+                                    <a href="/TaiKhoan/DangNhap">Sign in</a>
+                                </div>
+                            }
                             <div class="header__top__links">
                                 <a href="#">FAQs</a>
                             </div>

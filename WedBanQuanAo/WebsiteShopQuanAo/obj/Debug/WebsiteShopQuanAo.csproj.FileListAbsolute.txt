@@ -177,3 +177,36 @@ C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\Shop
 C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
 C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
 C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll.config
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csproj.AssemblyReference.cache
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csproj.CoreCompileInputs.cache
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+E:\HocTap\HK6\Kiem Dinh Chat Luong Phan Men\KDCLPM\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
