@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_LayoutPageHome2.cshtml";
+}
+
+<style>
+    #divNavigation {
+        display: none;
+    }
+</style>
+<div class="width-details">
+    <div class="container text-center mt-4">
+        @using (Html.BeginForm())
+        {
+            <div class="w-50 mx-auto">
+                <h1 class="mb-3 fw-normal">Sign In</h1>
+                <div class="form-floating">
+                    <input class="form-control mb-2" name="username" placeholder="Username" /><h6 class="text-danger">@ViewData["Loi1"]</h6>
+                    @*<label for="floatingInputSignin">Username</label>*@
+                </div>
+                <div class="form-floating">
+                    <input class="form-control mb-2" type="password" name="pw" placeholder="Password" /><h6 class="text-danger">@ViewData["Loi2"]</h6>
+                    @*<label for="floatingPasswordSignin">Password</label>*@
+                </div>
+                <button id="btnSignin" title="Sign in" class="btnSignIn">Sign In</button>
+            </div>
+        }
+        <div>
+            <a href="/TaiKhoan/DangKy" style="font-weight: bold; font-style: italic;" class="dangkyhover">If you don't have an account, please click here to register!</a>
+        </div>
+    </div>
+</div>
+
+
+
+

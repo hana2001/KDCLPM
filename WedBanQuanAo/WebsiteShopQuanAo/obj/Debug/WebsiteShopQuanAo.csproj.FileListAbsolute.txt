@@ -1,0 +1,179 @@
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll.config
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\Admin\Desktop\webbanquanao\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll.config
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll.config
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\PhatTai\Desktop\tin (1)\tin\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll.config
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+C:\Users\Admin\Desktop\Web_DoAn\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Phân tích thiết kế HTTT\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\WebsiteShopQuanAo.pdb
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\PagedList.Mvc.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\Newtonsoft.Json.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Helpers.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Mvc.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.Razor.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.csprojResolveAssemblyReference.cache
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.dll
+C:\Users\Na\Desktop\HKII Năm 3\Kiểm định chất lượng PM\Đồ án\ShopQuanAo\WedBanQuanAo\WebsiteShopQuanAo\obj\Debug\WebsiteShopQuanAo.pdb

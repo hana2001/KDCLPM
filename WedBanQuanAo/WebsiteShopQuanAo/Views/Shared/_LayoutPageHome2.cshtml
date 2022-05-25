@@ -1,0 +1,459 @@
+﻿<!DOCTYPE html>
+@using WebsiteShopQuanAo.Models;
+<html>
+<head>
+    @*<meta name="viewport" content="width=device-width" />*@
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>@ViewBag.Title</title>
+    <link rel="icon" href="~/Images/Logo/3TS LOGO.png">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800;900&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/lib/cssDesign/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/lib/cssDesign/css/style.css" type="text/css">
+
+    <link rel="stylesheet" href="~/lib/cssDesign/css/style.css" type="text/scss">
+
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/js/bootstrap.min.js"></script>
+
+    <script src="~/lib/asset/script/validate.js"></script>
+    <script defer src="~/lib/asset/script/SignIn.js"></script>
+
+    <script type="text/javascript" src="~/lib/sweetalert/sweetalert2@11.js"></script>
+
+    <script type="text/javascript">
+        var Toast = Swal.mixin({
+            toast: true,
+            position: 'top-end',
+            showConfirmButton: false,
+            timer: 3000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+                toast.addEventListener('mouseenter', Swal.stopTimer)
+                toast.addEventListener('mouseleave', Swal.resumeTimer)
+        }
+        });
+    </script>
+    <style>
+        .mauChuDao {
+            cursor: default;
+            background-color: lightsteelblue !important;
+        }
+
+        .txtMenuHeader:hover {
+            color: #dfdfdf !important;
+        }
+
+        .sticky {
+            position: -webkit-sticky;
+            //position: sticky;
+            top: 5px;
+        }
+
+        .pagination-container {
+            position: relative;
+            height: 46px;
+            margin-top: 5px;
+        }
+
+            .pagination-container a {
+                text-decoration: none;
+            }
+
+            .pagination-container li:hover {
+                background: rgba(13, 110, 253, .5);
+            }
+
+
+        .btn-toggle {
+            display: inline-flex;
+            align-items: center;
+            padding: .25rem .5rem;
+            font-weight: 600;
+            color: rgba(0, 0, 0, .65);
+            background-color: transparent;
+            border: 0;
+        }
+
+            .btn-toggle:hover,
+            .btn-toggle:focus {
+                color: rgba(0, 0, 0, .85);
+                background-color: aliceblue;
+            }
+
+            .btn-toggle::before {
+                width: 1.25em;
+                line-height: 0;
+                content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+                transition: transform .35s ease;
+                transform-origin: .5em 50%;
+            }
+
+            .btn-toggle[aria-expanded="true"] {
+                color: rgba(0, 0, 0, .85);
+            }
+
+                .btn-toggle[aria-expanded="true"]::before {
+                    transform: rotate(90deg);
+                }
+
+        .btn-toggle-nav a {
+            display: inline-flex;
+            padding: .1875rem .5rem;
+            margin-top: .125rem;
+            margin-left: 1.25rem;
+            text-decoration: none;
+        }
+
+            .btn-toggle-nav a:hover,
+            .btn-toggle-nav a:focus {
+                background-color: aliceblue;
+            }
+    </style>
+    <script>
+        (function () {
+            'use strict'
+            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+            tooltipTriggerList.forEach(function (tooltipTriggerEl) {
+                new bootstrap.Tooltip(tooltipTriggerEl)
+            })
+        })()
+    </script>
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Offcanvas Menu Begin -->
+    <div class="offcanvas-menu-overlay"></div>
+    <div class="offcanvas-menu-wrapper">
+        <div class="offcanvas__option">
+            <div class="offcanvas__links">
+                <a href="/TaiKhoan/DangNhap">Sign in</a>
+                <a href="#">FAQs</a>
+            </div>
+            <div class="offcanvas__top__hover">
+                <span>Usd <i class="arrow_carrot-down"></i></span>
+                <ul>
+                    <li>USD</li>
+                    <li>EUR</li>
+                    <li>USD</li>
+                </ul>
+            </div>
+        </div>
+        <div class="offcanvas__nav__option">
+            <a href="#" class="search-switch"><img src="~/lib/cssDesign/img/icon/search.png" alt=""></a>
+            <a href="#"><img src="~/lib/cssDesign/img/icon/heart.png" alt=""></a>
+            <a href="#"><img src="~/lib/cssDesign/img/icon/cart.png" alt=""> <span>0</span></a>
+            <div class="price">$0.00</div>
+        </div>
+        <div id="mobile-menu-wrap"></div>
+        <div class="offcanvas__text">
+            <p>Free shipping, 30-day return or refund guarantee.</p>
+        </div>
+    </div>
+    <!-- Offcanvas Menu End -->
+    <!-- Header Section Begin -->
+    <header class="header">
+        <div class="header__top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-7">
+                        <div class="header__top__left">
+                            <p>Free shipping, 30-day return or refund guarantee.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-5">
+                        <div class="header__top__right">
+                            @if(Session["User"]!=null)
+                            {
+                                var us = Session["User"] as TAIKHOAN;
+                                <div class="header__top__hover">
+                                    <span>Hello @us.HOTEN <i class="arrow_carrot-down"></i></span>
+                                    <ul>
+                                        <li>Account Information</li>
+                                        <li>Change Password</li>
+                                        <li>
+                                            <a href="@Url.Action("DangXuat","TaiKhoan")" style="color:white">Log Out</a>
+                                        </li>
+                                    </ul> 
+                                </div>
+                                }
+                                else
+                                {
+                                    <div class="header__top__links">
+                                        <a href="/TaiKhoan/DangNhap">Sign in</a>
+                                    </div>
+                                }
+                            <div class="header__top__links">
+                                <a href="#">FAQs</a>
+                            </div>
+                            <div class="header__top__hover">
+                                <span>Usd <i class="arrow_carrot-down"></i></span>
+                                <ul>
+                                    <li>USD</li>
+                                    <li>EUR</li>
+                                    <li>USD</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-3">
+                    <div class="header__logo">
+                        <a href="/SanPham/TatCaSanPhamHome"><img src="~/lib/cssDesign/img/logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <nav class="header__menu mobile-menu">
+                       @if(Session["User"]!=null)
+                        {
+                            var us = Session["User"] as TAIKHOAN;
+                            if(us.MAQUYEN ==1)
+                            {
+                            <ul>
+                                <li>
+                                    <a href="/SanPham/TatCaSanPham">Account</a>
+
+                                </li>
+                                <li>
+                                    <a href="/SanPham/TatCaSanPham">Product</a>
+                                
+                                </li>
+                                    <li>
+                                    <a href="/SanPham/TatCaSanPham">Bill</a>
+                                
+                                </li>
+                            </ul>
+                            }
+                            else
+                            {
+                                   <ul>
+                                        <li class="active"><a href="/SanPham/TatCaSanPham">Home</a></li>
+                                        <li>
+                                            <a href="/SanPham/TatCaSanPham">Category</a>
+                                            <ul class="dropdown">
+                                                <li>
+                                                    @Html.Action("DanhMucPartial", "SanPham")
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="./contact.html">Contacts</a></li>
+                                    </ul>
+                             }
+                        }
+                        else
+                        {
+                        <ul>
+                            <li class="active"><a href="/SanPham/TatCaSanPham">Home</a></li>
+                            <li>
+                                <a href="/SanPham/TatCaSanPham">Category</a>
+                                <ul class="dropdown">
+                                    <li>
+                                        @Html.Action("DanhMucPartial", "SanPham")
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="./contact.html">Contacts</a></li>
+                        </ul>
+                        }
+                    </nav>
+                </div>
+                <div class="col-lg-3 col-md-3">
+                    <div class="header__nav__option">
+                        <a href="#" class="search-switch"><img src="~/lib/cssDesign/img/icon/search.png" alt=""></a>
+                        <a href="#"><img src="~/lib/cssDesign/img/icon/heart.png" alt=""></a>
+                        <a href="/GioHang/GioHang"><img src="~/lib/cssDesign/img/icon/cart.png" alt=""> @Html.Action("GioHangPartial", "GioHang")</a>
+
+          
+                    </div>
+                </div>
+            </div>
+            <div class="canvas__open"><i class="fa fa-bars"></i></div>
+        </div>
+    </header>
+    <!-- Product Section Begin -->
+    <div class="container mt-2 mb-3">
+        <div class="row">
+            <div id="divNavigation" @*class="col col-lg-4 col-md-3 h-100 sticky"*@ class="col-md-3">
+                <ul class="list-group list-group-flush text-left">
+                    <li class="list-group-item" style="background-color:black;"><a href="#" style="text-transform:uppercase; text-decoration:none; color:white; font-weight:bold;">CATEGORY</a></li>
+                    @Html.Action("DanhMucPartial", "SanPham")
+                </ul>
+            </div>
+            @*nội dung chính*@
+            <div class="col-md-9">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <!-- Product Section End -->
+    <!-- Footer Section Begin -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="footer__about">
+                        <div class="footer__logo">
+                             <a href="/SanPham/TatCaSanPhamHome"><img src="~/lib/cssDesign/img/logo.png" alt=""></a>
+                        </div>
+                        <p>The customer is at the heart of our unique business model, which includes design.</p>
+                        <a href="#"><img src="~/lib/cssDesign/img/payment.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-2 offset-lg-1 col-md-3 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>Shopping</h6>
+                        <ul>
+                            <li><a href="#">Clothing Store</a></li>
+                            <li><a href="#">Trending Shoes</a></li>
+                            <li><a href="#">Accessories</a></li>
+                            <li><a href="#">Sale</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>Shopping</h6>
+                        <ul>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">Payment Methods</a></li>
+                            <li><a href="#">Delivary</a></li>
+                            <li><a href="#">Return & Exchanges</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 offset-lg-1 col-md-6 col-sm-6">
+                    <div class="footer__widget">
+                        <h6>NewLetter</h6>
+                        <div class="footer__newslatter">
+                            <p>Be the first to know about new arrivals, look books, sales & promos!</p>
+                            <form action="#">
+                                <input type="text" placeholder="Your email">
+                                <button type="submit"><span class="icon_mail_alt"></span></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="footer__copyright__text">
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        <p>
+                            Copyright ©
+                            <script>document.write(new Date().getFullYear());</script>2020
+                            All rights reserved | This template is made with <i class="fa fa-heart-o"
+                                                                                aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                        </p>
+                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer Section End -->
+    <!-- Search Begin -->
+    <div class="search-model">
+        <div class="h-100 d-flex align-items-center justify-content-center">
+            <div class="search-close-switch">+</div>
+            <form class="search-model-form">
+                <input type="text" id="search-input" placeholder="Search here.....">
+            </form>
+        </div>
+    </div>
+    <!-- Search End -->
+    <div class="modal fade" id="modalSignup" tabindex="-1" aria-labelledby="modalSignup" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3 class="modal-title fw-bold">Đăng ký</h3>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" title="Close" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-2 form-floating">
+                        <input type="text" class="form-control" id="floatingNameSignup" name="hoTen" placeholder="Họ và tên">
+                        @*<label for="floatingNameSignup">Họ và tên</label>*@
+                    </div>
+                    <div class="mb-2 form-floating">
+                        <input type="text" class="form-control" id="floatingUsernameSignup" name="username" placeholder="Tài khoản">
+                        @*<label for="floatingUsernameSignup">Tài khoản</label>*@
+                    </div>
+                    <div class="mb-2 form-floating">
+                        <input type="password" class="form-control" id="floatingPasswordSignup" name="pw" placeholder="Mật khẩu">
+                        @*<label for="floatingPasswordSignup">Mật khẩu</label>*@
+                    </div>
+
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" value="Nam" name="GioiTinh" id="gtNam" checked>
+                        <label class="form-check-label" for="gtNam">
+                            Nam
+                        </label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input class="form-check-input" type="radio" value="Nữ" name="GioiTinh" id="gtNu">
+                        <label class="form-check-label" for="gtNu">
+                            Nữ
+                        </label>
+                    </div>
+
+                    <div class="mb-2 form-floating">
+                        <input type="email" class="form-control" id="floatingEmailSignup" name="email" placeholder="Email">
+                        @*<label for="floatingEmailSignup">Email</label>*@
+                    </div>
+                    <div class="mb-2 form-floating">
+                        <input type="date" class="form-control" id="floatingNgSinhSignup" name="ngaySinh" placeholder="Ngày sinh">
+                        @*<label for="floatingNgSinhSignup">Ngày sinh</label>*@
+                    </div>
+                    <div class="mb-2 form-floating">
+                        <input type="tel" class="form-control" id="floatingPhoneSignup" name="sdt" placeholder="Số điện thoại">
+                        @*<label for="floatingPhoneSignup">Số điện thoại</label>*@
+                    </div>
+                    <hr />
+                    <button class="w-100 btn btn-lg btn-primary" id="btnSignupInfo" title="Sign up" type="submit">Đăng ký</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        var modalSignup = new bootstrap.Modal(document.getElementById('modalSignup'))
+    </script>
+
+
+
+    <!-- Js Plugins -->
+    <script src="~/lib/cssDesign/js/jquery-3.3.1.min.js"></script>
+    <script src="~/lib/cssDesign/js/bootstrap.min.js"></script>
+    <script src="~/lib/cssDesign/js/jquery.nice-select.min.js"></script>
+    <script src="~/lib/cssDesign/js/jquery.nicescroll.min.js"></script>
+    <script src="~/lib/cssDesign/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/lib/cssDesign/js/jquery.countdown.min.js"></script>
+    <script src="~/lib/cssDesign/js/jquery.slicknav.js"></script>
+    <script src="~/lib/cssDesign/js/mixitup.min.js"></script>
+    <script src="~/lib/cssDesign/js/owl.carousel.min.js"></script>
+    <script src="~/lib/cssDesign/js/main.js"></script>
+</body>
+
+</html>

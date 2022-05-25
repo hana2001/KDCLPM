@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutPageHome2.cshtml";
+}
+@model WebsiteShopQuanAo.Models.TaiKhoanValid
+<style>
+    #divNavigation {
+        display: none;
+    }
+</style>
+<div class="width-details">
+    <div class="container text-center mt-4">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+            {
+        <div class="w-50 mx-auto">
+            <h1 class="mb-3 fw-normal">Sign Up</h1>
+            <div class="form-floating">
+                <input type="text" name="UserName" class="form-control mb-2" placeholder="Username"/> @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" }) <h6 class="text-danger">@ViewData["LoiDaTonTaiTenTk"]</h6>
+            </div>
+            <div class="form-floating">
+                <input type="password" name="Pass" class="form-control mb-2" placeholder="Password"/>@Html.ValidationMessageFor(model => model.Pass, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="password" name="RePass" class="form-control mb-2" placeholder="Re-Password"/>@Html.ValidationMessageFor(model => model.RePass, "", new { @class = "text-danger" })<h6 class="text-danger">@ViewData["LoiComfirmPass"]</h6>
+</div>
+            <div class="form-floating">
+                <input type="text" name="Ten" class="form-control mb-2" placeholder="Full Name" /> @Html.ValidationMessageFor(model => model.Ten, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="date" name="NgaySinh" class="form-control mb-2" placeholder="Ngày Sinh"/>@Html.ValidationMessageFor(model => model.NgaySinh, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="text" name="Email" class="form-control mb-2" placeholder="Email"/> @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="text" name="SDT" class="form-control mb-2" placeholder="Phone Number"/>@Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="text" name="DiaChi" class="form-control mb-2" placeholder="Address"/>@Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating">
+                <input type="radio" name="GioiTinh" value="Nam" checked>&nbsp;&nbsp;Male
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="radio" name="GioiTinh" value="Nữ">&nbsp;&nbsp;Female
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="radio" name="GioiTinh" value="Khác">&nbsp;&nbsp;Another
+            </div>
+
+                <input type="submit" value="SIGN UP" class="btnSignUp" />
+
+
+            </div>
+            }
+        }
+    </div>
+</div>

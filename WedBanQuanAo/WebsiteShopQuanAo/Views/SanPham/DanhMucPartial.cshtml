@@ -1,0 +1,6 @@
+﻿@model IEnumerable<WebsiteShopQuanAo.Models.LOAISP>
+
+@foreach (var item in Model)
+{
+    <li style="list-style-type: none;"><a class="list-group-item" style="text-transform: uppercase; text-decoration: none; color: black; font-weight: bold;" href="@Url.Action("SanPhamTheoLoai", "SanPham", new { @maLoai = item.MALSP })">@item.TENLOAI</a></li>
+}
